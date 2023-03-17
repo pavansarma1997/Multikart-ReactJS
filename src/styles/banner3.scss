@@ -1,0 +1,30 @@
+.banner3 {
+    background-image: url("https://multikart-react.vercel.app/assets/images/parallax/28.jpg");
+    height: 50rem;
+    width: 100%;
+    background-size: cover;
+    // position: sticky;
+    background-attachment: fixed;
+}
+
+.sale{
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: flex-end;
+}
+
+.one {
+    font-size: 5rem;
+    color: grey;
+    margin: 1rem;
+}
+.two{
+    font-size: 3rem;
+    margin: 0.5rem;
+
+} 
+.three{
+    font-size: 2rem;
+    margin: 0;
+
+}
